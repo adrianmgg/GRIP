@@ -16,9 +16,9 @@ import java.util.List;
 import static org.bytedeco.javacpp.opencv_core.MatVector;
 import static org.bytedeco.javacpp.opencv_imgproc.approxPolyDP;
 
+// FIXME needs code generation for cpp, python, java
 /**
- * An {@link Operation} that finds the convex hull of each of a list of contours. This can help
- * remove holes in detected shapes, making them easier to analyze.
+ * An {@link Operation} that TODO
  */
 @Description(name = "Approximate Polygonal Curves",
 		summary = "Summary TODO", // TODO
